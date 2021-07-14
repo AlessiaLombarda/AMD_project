@@ -1,0 +1,56 @@
+13-Jul-21 18:49:29 - This experiment implements PageRank with taxation
+13-Jul-21 18:49:29 - NumExpr defaulting to 2 threads.
+13-Jul-21 18:50:22 - Iterations: 1
+13-Jul-21 18:50:22 - Sampling: 1e-05, Time: 2.929105758666992
+13-Jul-21 18:51:11 - Iterations: 1
+13-Jul-21 18:51:11 - Sampling: 0.0001, Time: 0.5304889678955078
+13-Jul-21 18:52:00 - Iterations: 1
+13-Jul-21 18:52:00 - Sampling: 0.001, Time: 0.7035894393920898
+13-Jul-21 18:54:03 - Iterations: 46
+13-Jul-21 18:54:03 - Sampling: 0.01, Time: 72.47616648674011
+13-Jul-21 19:17:21 - Iterations: 150
+13-Jul-21 19:17:21 - Sampling: 0.1, Time: 1337.0872178077698
+13-Jul-21 19:17:21 - This experiment implements PageRank with taxation
+13-Jul-21 19:18:11 - Iterations: 1
+13-Jul-21 19:18:11 - Sampling: 1e-05, Time: 0.20105624198913574
+13-Jul-21 19:19:01 - Iterations: 1
+13-Jul-21 19:19:01 - Sampling: 0.0001, Time: 0.2896435260772705
+13-Jul-21 19:19:51 - Iterations: 1
+13-Jul-21 19:19:51 - Sampling: 0.001, Time: 0.3664722442626953
+13-Jul-21 19:21:10 - Iterations: 20
+13-Jul-21 19:21:10 - Sampling: 0.01, Time: 29.035730838775635
+13-Jul-21 19:44:42 - Iterations: 150
+13-Jul-21 19:44:42 - Sampling: 0.1, Time: 1349.870834350586
+13-Jul-21 19:44:42 - This experiment implements PageRank with taxation
+13-Jul-21 19:45:34 - Iterations: 1
+13-Jul-21 19:45:34 - Sampling: 1e-05, Time: 0.2039191722869873
+13-Jul-21 19:46:24 - Iterations: 1
+13-Jul-21 19:46:24 - Sampling: 0.0001, Time: 0.2568659782409668
+13-Jul-21 19:47:13 - Iterations: 1
+13-Jul-21 19:47:13 - Sampling: 0.001, Time: 0.3454291820526123
+13-Jul-21 19:48:38 - Iterations: 24
+13-Jul-21 19:48:38 - Sampling: 0.01, Time: 34.983545780181885
+13-Jul-21 20:11:57 - Iterations: 150
+13-Jul-21 20:11:58 - Sampling: 0.1, Time: 1338.3525745868683
+13-Jul-21 20:11:58 - This experiment implements PageRank with taxation
+13-Jul-21 20:12:48 - Iterations: 1
+13-Jul-21 20:12:48 - Sampling: 1e-05, Time: 0.6039466857910156
+13-Jul-21 20:13:38 - Iterations: 1
+13-Jul-21 20:13:38 - Sampling: 0.0001, Time: 0.2780637741088867
+13-Jul-21 20:14:27 - Iterations: 1
+13-Jul-21 20:14:27 - Sampling: 0.001, Time: 0.3602480888366699
+13-Jul-21 20:16:53 - Iterations: 66
+13-Jul-21 20:16:53 - Sampling: 0.01, Time: 96.04549956321716
+13-Jul-21 20:40:22 - Iterations: 150
+13-Jul-21 20:40:22 - Sampling: 0.1, Time: 1347.8054673671722
+13-Jul-21 20:40:22 - This experiment implements PageRank with taxation
+13-Jul-21 20:41:14 - Iterations: 1
+13-Jul-21 20:41:14 - Sampling: 1e-05, Time: 0.2212662696838379
+13-Jul-21 20:42:10 - Iterations: 1
+13-Jul-21 20:42:10 - Sampling: 0.0001, Time: 0.2691514492034912
+13-Jul-21 20:43:06 - Iterations: 1
+13-Jul-21 20:43:06 - Sampling: 0.001, Time: 0.43824315071105957
+13-Jul-21 20:44:35 - Iterations: 21
+13-Jul-21 20:44:35 - Sampling: 0.01, Time: 32.35844564437866
+13-Jul-21 21:09:50 - Iterations: 150
+13-Jul-21 21:09:50 - Sampling: 0.1, Time: 1446.743866443634

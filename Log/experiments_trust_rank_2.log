@@ -1,0 +1,81 @@
+14-Jul-21 15:28:10 - This experiment implements TrustRank variant with ratings
+14-Jul-21 15:28:10 - NumExpr defaulting to 2 threads.
+14-Jul-21 15:29:08 - Iterations: 1
+14-Jul-21 15:29:55 - Iterations: 150
+14-Jul-21 15:29:55 - Sampling: 1e-05, Time: 49.45400619506836
+14-Jul-21 15:30:47 - Iterations: 1
+14-Jul-21 15:31:25 - Iterations: 150
+14-Jul-21 15:31:25 - Sampling: 0.0001, Time: 38.24345254898071
+14-Jul-21 15:32:17 - Iterations: 1
+14-Jul-21 15:33:17 - Iterations: 150
+14-Jul-21 15:33:17 - Sampling: 0.001, Time: 60.45282006263733
+14-Jul-21 15:35:23 - Iterations: 47
+14-Jul-21 15:39:13 - Iterations: 150
+14-Jul-21 15:39:13 - Sampling: 0.01, Time: 300.4781422615051
+14-Jul-21 16:03:26 - Iterations: 150
+14-Jul-21 16:27:17 - Iterations: 150
+14-Jul-21 16:27:17 - Sampling: 0.1, Time: 2812.536600589752
+14-Jul-21 16:27:17 - This experiment implements TrustRank variant with ratings
+14-Jul-21 16:28:17 - Iterations: 1
+14-Jul-21 16:28:49 - Iterations: 150
+14-Jul-21 16:28:49 - Sampling: 1e-05, Time: 32.655980587005615
+14-Jul-21 16:29:44 - Iterations: 1
+14-Jul-21 16:30:18 - Iterations: 150
+14-Jul-21 16:30:18 - Sampling: 0.0001, Time: 34.1450355052948
+14-Jul-21 16:31:13 - Iterations: 1
+14-Jul-21 16:32:11 - Iterations: 150
+14-Jul-21 16:32:11 - Sampling: 0.001, Time: 57.74596929550171
+14-Jul-21 16:34:17 - Iterations: 47
+14-Jul-21 16:38:11 - Iterations: 150
+14-Jul-21 16:38:11 - Sampling: 0.01, Time: 303.36696004867554
+14-Jul-21 17:02:49 - Iterations: 150
+14-Jul-21 17:27:07 - Iterations: 150
+14-Jul-21 17:27:07 - Sampling: 0.1, Time: 2862.313244342804
+14-Jul-21 17:27:07 - This experiment implements TrustRank variant with ratings
+14-Jul-21 17:28:08 - Iterations: 1
+14-Jul-21 17:28:40 - Iterations: 150
+14-Jul-21 17:28:40 - Sampling: 1e-05, Time: 32.87573528289795
+14-Jul-21 17:29:38 - Iterations: 1
+14-Jul-21 17:30:13 - Iterations: 150
+14-Jul-21 17:30:13 - Sampling: 0.0001, Time: 35.640610694885254
+14-Jul-21 17:31:11 - Iterations: 1
+14-Jul-21 17:32:09 - Iterations: 150
+14-Jul-21 17:32:09 - Sampling: 0.001, Time: 58.301029682159424
+14-Jul-21 17:33:47 - Iterations: 24
+14-Jul-21 17:37:41 - Iterations: 150
+14-Jul-21 17:37:41 - Sampling: 0.01, Time: 270.1033911705017
+14-Jul-21 18:02:38 - Iterations: 150
+14-Jul-21 18:28:09 - Iterations: 150
+14-Jul-21 18:28:09 - Sampling: 0.1, Time: 2947.674370765686
+14-Jul-21 18:28:09 - This experiment implements TrustRank variant with ratings
+14-Jul-21 18:29:20 - Iterations: 1
+14-Jul-21 18:29:54 - Iterations: 150
+14-Jul-21 18:29:54 - Sampling: 1e-05, Time: 34.94393825531006
+14-Jul-21 18:30:55 - Iterations: 1
+14-Jul-21 18:31:30 - Iterations: 150
+14-Jul-21 18:31:30 - Sampling: 0.0001, Time: 35.1235990524292
+14-Jul-21 18:32:30 - Iterations: 1
+14-Jul-21 18:33:29 - Iterations: 150
+14-Jul-21 18:33:29 - Sampling: 0.001, Time: 59.35463762283325
+14-Jul-21 18:35:36 - Iterations: 45
+14-Jul-21 18:39:33 - Iterations: 150
+14-Jul-21 18:39:33 - Sampling: 0.01, Time: 305.25170850753784
+14-Jul-21 19:08:11 - Iterations: 150
+14-Jul-21 19:36:10 - Iterations: 150
+14-Jul-21 19:36:10 - Sampling: 0.1, Time: 3320.929479122162
+14-Jul-21 19:36:10 - This experiment implements TrustRank variant with ratings
+14-Jul-21 19:37:35 - Iterations: 1
+14-Jul-21 19:38:20 - Iterations: 150
+14-Jul-21 19:38:20 - Sampling: 1e-05, Time: 45.11232566833496
+14-Jul-21 19:39:41 - Iterations: 1
+14-Jul-21 19:40:21 - Iterations: 150
+14-Jul-21 19:40:21 - Sampling: 0.0001, Time: 41.286296129226685
+14-Jul-21 19:41:46 - Iterations: 1
+14-Jul-21 19:42:52 - Iterations: 150
+14-Jul-21 19:42:52 - Sampling: 0.001, Time: 66.25147771835327
+14-Jul-21 19:44:43 - Iterations: 21
+14-Jul-21 19:49:04 - Iterations: 150
+14-Jul-21 19:49:04 - Sampling: 0.01, Time: 296.73943758010864
+14-Jul-21 20:17:48 - Iterations: 150
+14-Jul-21 20:46:16 - Iterations: 150
+14-Jul-21 20:46:16 - Sampling: 0.1, Time: 3327.9613716602325

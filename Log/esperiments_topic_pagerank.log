@@ -1,0 +1,56 @@
+13-Jul-21 21:15:40 - This experiment implements Topic-Sensitive PageRank
+13-Jul-21 21:17:40 - Iterations: 150
+13-Jul-21 21:17:40 - Sampling: 1e-05, Time: 40.88034248352051
+13-Jul-21 21:19:33 - Iterations: 150
+13-Jul-21 21:19:33 - Sampling: 0.0001, Time: 36.862728118896484
+13-Jul-21 21:21:47 - Iterations: 150
+13-Jul-21 21:21:47 - Sampling: 0.001, Time: 57.494210958480835
+13-Jul-21 21:26:59 - Iterations: 150
+13-Jul-21 21:26:59 - Sampling: 0.01, Time: 231.74694776535034
+13-Jul-21 21:52:57 - Iterations: 150
+13-Jul-21 21:52:57 - Sampling: 0.1, Time: 1439.2128071784973
+14-Jul-21 07:25:23 - This experiment implements Topic-Sensitive PageRank
+14-Jul-21 07:25:23 - NumExpr defaulting to 2 threads.
+14-Jul-21 07:27:39 - Iterations: 150
+14-Jul-21 07:27:39 - Sampling: 1e-05, Time: 55.3804714679718
+14-Jul-21 07:29:37 - Iterations: 150
+14-Jul-21 07:29:37 - Sampling: 0.0001, Time: 41.644567012786865
+14-Jul-21 07:31:56 - Iterations: 150
+14-Jul-21 07:31:56 - Sampling: 0.001, Time: 63.978683948516846
+14-Jul-21 07:37:17 - Iterations: 150
+14-Jul-21 07:37:17 - Sampling: 0.01, Time: 236.51608753204346
+14-Jul-21 08:04:03 - Iterations: 150
+14-Jul-21 08:04:03 - Sampling: 0.1, Time: 1479.6622619628906
+14-Jul-21 08:04:03 - This experiment implements Topic-Sensitive PageRank
+14-Jul-21 08:06:21 - Iterations: 150
+14-Jul-21 08:06:21 - Sampling: 1e-05, Time: 45.665974617004395
+14-Jul-21 08:08:26 - Iterations: 150
+14-Jul-21 08:08:26 - Sampling: 0.0001, Time: 38.39472556114197
+14-Jul-21 08:10:48 - Iterations: 150
+14-Jul-21 08:10:48 - Sampling: 0.001, Time: 58.85240149497986
+14-Jul-21 08:16:15 - Iterations: 150
+14-Jul-21 08:16:15 - Sampling: 0.01, Time: 238.3781270980835
+14-Jul-21 08:43:14 - Iterations: 150
+14-Jul-21 08:43:14 - Sampling: 0.1, Time: 1484.8916006088257
+14-Jul-21 08:43:14 - This experiment implements Topic-Sensitive PageRank
+14-Jul-21 08:45:21 - Iterations: 150
+14-Jul-21 08:45:21 - Sampling: 1e-05, Time: 36.39379167556763
+14-Jul-21 08:47:28 - Iterations: 150
+14-Jul-21 08:47:28 - Sampling: 0.0001, Time: 41.87142014503479
+14-Jul-21 08:49:57 - Iterations: 150
+14-Jul-21 08:49:57 - Sampling: 0.001, Time: 60.12825107574463
+14-Jul-21 08:55:23 - Iterations: 150
+14-Jul-21 08:55:23 - Sampling: 0.01, Time: 235.18938088417053
+14-Jul-21 09:22:29 - Iterations: 150
+14-Jul-21 09:22:29 - Sampling: 0.1, Time: 1487.2977366447449
+14-Jul-21 09:22:29 - This experiment implements Topic-Sensitive PageRank
+14-Jul-21 09:24:40 - Iterations: 150
+14-Jul-21 09:24:40 - Sampling: 1e-05, Time: 41.21413064002991
+14-Jul-21 09:26:43 - Iterations: 150
+14-Jul-21 09:26:43 - Sampling: 0.0001, Time: 37.465412855148315
+14-Jul-21 09:29:07 - Iterations: 150
+14-Jul-21 09:29:07 - Sampling: 0.001, Time: 59.80350852012634
+14-Jul-21 09:34:38 - Iterations: 150
+14-Jul-21 09:34:38 - Sampling: 0.01, Time: 234.68121528625488
+14-Jul-21 10:01:39 - Iterations: 150
+14-Jul-21 10:01:40 - Sampling: 0.1, Time: 1489.046540737152
