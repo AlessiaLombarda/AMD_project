@@ -1,82 +1,80 @@
-14-Jul-21 10:53:33 - This experiment implements TrustRank variant with numbers of movies
-14-Jul-21 10:54:41 - Iterations: 1
-14-Jul-21 10:54:41 - Iterations: 1
-14-Jul-21 10:54:41 - Sampling: 1e-05, Time: 1.0081274509429932
-14-Jul-21 10:55:48 - Iterations: 1
-14-Jul-21 10:56:24 - Iterations: 150
-14-Jul-21 10:56:24 - Sampling: 0.0001, Time: 36.310532093048096
-14-Jul-21 10:57:30 - Iterations: 1
-14-Jul-21 10:58:31 - Iterations: 150
-14-Jul-21 10:58:31 - Sampling: 0.001, Time: 60.95477628707886
-14-Jul-21 11:00:10 - Iterations: 19
-14-Jul-21 11:04:23 - Iterations: 150
-14-Jul-21 11:04:23 - Sampling: 0.01, Time: 283.9696249961853
-14-Jul-21 11:30:49 - Iterations: 150
-14-Jul-21 11:56:31 - Iterations: 150
-14-Jul-21 11:56:31 - Sampling: 0.1, Time: 3042.0405852794647
-14-Jul-21 15:17:14 - This experiment implements TrustRank variant with numbers of movies
-14-Jul-21 15:17:14 - NumExpr defaulting to 2 threads.
-14-Jul-21 15:18:25 - Iterations: 1
-14-Jul-21 15:18:26 - Iterations: 1
-14-Jul-21 15:18:26 - Sampling: 1e-05, Time: 4.715970993041992
-14-Jul-21 15:19:32 - Iterations: 1
-14-Jul-21 15:20:21 - Iterations: 150
-14-Jul-21 15:20:21 - Sampling: 0.0001, Time: 49.58745551109314
-14-Jul-21 15:21:27 - Iterations: 1
-14-Jul-21 15:22:33 - Iterations: 150
-14-Jul-21 15:22:33 - Sampling: 0.001, Time: 67.12385058403015
-14-Jul-21 15:24:11 - Iterations: 19
-14-Jul-21 15:28:25 - Iterations: 150
-14-Jul-21 15:28:25 - Sampling: 0.01, Time: 285.30077862739563
-14-Jul-21 15:54:46 - Iterations: 150
-14-Jul-21 16:20:31 - Iterations: 150
-14-Jul-21 16:20:32 - Sampling: 0.1, Time: 3045.799327850342
-14-Jul-21 16:20:32 - This experiment implements TrustRank variant with numbers of movies
-14-Jul-21 16:21:41 - Iterations: 1
-14-Jul-21 16:21:41 - Iterations: 1
-14-Jul-21 16:21:41 - Sampling: 1e-05, Time: 0.5540871620178223
-14-Jul-21 16:22:53 - Iterations: 1
-14-Jul-21 16:23:32 - Iterations: 150
-14-Jul-21 16:23:32 - Sampling: 0.0001, Time: 39.14241290092468
-14-Jul-21 16:24:40 - Iterations: 1
-14-Jul-21 16:25:42 - Iterations: 150
-14-Jul-21 16:25:42 - Sampling: 0.001, Time: 62.853676080703735
-14-Jul-21 16:27:27 - Iterations: 23
-14-Jul-21 16:31:34 - Iterations: 150
-14-Jul-21 16:31:34 - Sampling: 0.01, Time: 283.72838711738586
-14-Jul-21 16:57:44 - Iterations: 150
-14-Jul-21 17:23:36 - Iterations: 150
-14-Jul-21 17:23:36 - Sampling: 0.1, Time: 3041.0735013484955
-14-Jul-21 17:23:36 - This experiment implements TrustRank variant with numbers of movies
-14-Jul-21 17:24:47 - Iterations: 1
-14-Jul-21 17:24:47 - Iterations: 1
-14-Jul-21 17:24:47 - Sampling: 1e-05, Time: 0.5694468021392822
-14-Jul-21 17:25:57 - Iterations: 1
-14-Jul-21 17:26:35 - Iterations: 150
-14-Jul-21 17:26:35 - Sampling: 0.0001, Time: 37.91106915473938
-14-Jul-21 17:27:45 - Iterations: 1
-14-Jul-21 17:28:47 - Iterations: 150
-14-Jul-21 17:28:47 - Sampling: 0.001, Time: 62.7566192150116
-14-Jul-21 17:32:09 - Iterations: 83
-14-Jul-21 17:36:18 - Iterations: 150
-14-Jul-21 17:36:18 - Sampling: 0.01, Time: 381.9761686325073
-14-Jul-21 18:02:48 - Iterations: 150
-14-Jul-21 18:28:36 - Iterations: 150
-14-Jul-21 18:28:36 - Sampling: 0.1, Time: 3058.045457839966
-14-Jul-21 19:44:55 - This experiment implements TrustRank variant with numbers of movies
-14-Jul-21 19:44:55 - NumExpr defaulting to 2 threads.
-14-Jul-21 19:45:51 - Iterations: 1
-14-Jul-21 19:45:51 - Iterations: 1
-14-Jul-21 19:45:51 - Sampling: 1e-05, Time: 3.7730395793914795
-14-Jul-21 19:46:43 - Iterations: 1
-14-Jul-21 19:46:43 - Iterations: 1
-14-Jul-21 19:46:43 - Sampling: 0.0001, Time: 1.149852991104126
-14-Jul-21 19:47:35 - Iterations: 1
-14-Jul-21 19:48:43 - Iterations: 150
-14-Jul-21 19:48:43 - Sampling: 0.001, Time: 68.275949716568
-14-Jul-21 19:51:28 - Iterations: 75
-14-Jul-21 19:55:19 - Iterations: 150
-14-Jul-21 19:55:19 - Sampling: 0.01, Time: 346.50607466697693
-14-Jul-21 20:18:47 - Iterations: 150
-14-Jul-21 20:42:16 - Iterations: 150
-14-Jul-21 20:42:16 - Sampling: 0.1, Time: 2757.3448004722595
+26-Jul-21 11:27:21 - This experiment implements TrustRank variant with numbers of movies
+26-Jul-21 11:28:19 - Iterations: 1
+26-Jul-21 11:28:19 - Iterations: 1
+26-Jul-21 11:28:19 - Sampling: 1e-05, Time: 1.1274194717407227
+26-Jul-21 11:29:17 - Iterations: 1
+26-Jul-21 11:29:31 - Iterations: 54
+26-Jul-21 11:29:31 - Sampling: 0.0001, Time: 13.707030296325684
+26-Jul-21 11:30:29 - Iterations: 1
+26-Jul-21 11:30:46 - Iterations: 42
+26-Jul-21 11:30:46 - Sampling: 0.001, Time: 18.08616805076599
+26-Jul-21 11:31:48 - Iterations: 2
+26-Jul-21 11:32:37 - Iterations: 30
+26-Jul-21 11:32:37 - Sampling: 0.01, Time: 52.47159767150879
+26-Jul-21 11:34:36 - Iterations: 5
+26-Jul-21 11:38:56 - Iterations: 26
+26-Jul-21 11:38:56 - Sampling: 0.1, Time: 309.30419754981995
+26-Jul-21 11:38:56 - This experiment implements TrustRank variant with numbers of movies
+26-Jul-21 11:39:53 - Iterations: 1
+26-Jul-21 11:39:53 - Iterations: 1
+26-Jul-21 11:39:53 - Sampling: 1e-05, Time: 0.5065920352935791
+26-Jul-21 11:40:50 - Iterations: 1
+26-Jul-21 11:41:03 - Iterations: 54
+26-Jul-21 11:41:03 - Sampling: 0.0001, Time: 13.565382957458496
+26-Jul-21 11:41:59 - Iterations: 1
+26-Jul-21 11:42:17 - Iterations: 43
+26-Jul-21 11:42:17 - Sampling: 0.001, Time: 17.632888555526733
+26-Jul-21 11:43:16 - Iterations: 2
+26-Jul-21 11:44:06 - Iterations: 30
+26-Jul-21 11:44:06 - Sampling: 0.01, Time: 52.54825139045715
+26-Jul-21 11:46:07 - Iterations: 5
+26-Jul-21 11:50:32 - Iterations: 26
+26-Jul-21 11:50:32 - Sampling: 0.1, Time: 315.5874032974243
+26-Jul-21 11:50:32 - This experiment implements TrustRank variant with numbers of movies
+26-Jul-21 11:51:28 - Iterations: 1
+26-Jul-21 11:51:29 - Iterations: 1
+26-Jul-21 11:51:29 - Sampling: 1e-05, Time: 1.0302629470825195
+26-Jul-21 11:52:25 - Iterations: 1
+26-Jul-21 11:52:40 - Iterations: 59
+26-Jul-21 11:52:40 - Sampling: 0.0001, Time: 14.937172651290894
+26-Jul-21 11:53:35 - Iterations: 1
+26-Jul-21 11:53:52 - Iterations: 43
+26-Jul-21 11:53:52 - Sampling: 0.001, Time: 17.515068292617798
+26-Jul-21 11:54:52 - Iterations: 2
+26-Jul-21 11:55:44 - Iterations: 31
+26-Jul-21 11:55:44 - Sampling: 0.01, Time: 54.783623933792114
+26-Jul-21 11:57:40 - Iterations: 5
+26-Jul-21 12:02:02 - Iterations: 26
+26-Jul-21 12:02:02 - Sampling: 0.1, Time: 310.59049367904663
+26-Jul-21 12:02:02 - This experiment implements TrustRank variant with numbers of movies
+26-Jul-21 12:02:58 - Iterations: 1
+26-Jul-21 12:02:59 - Iterations: 1
+26-Jul-21 12:02:59 - Sampling: 1e-05, Time: 0.9865462779998779
+26-Jul-21 12:03:54 - Iterations: 1
+26-Jul-21 12:04:08 - Iterations: 59
+26-Jul-21 12:04:08 - Sampling: 0.0001, Time: 15.417056560516357
+26-Jul-21 12:05:05 - Iterations: 1
+26-Jul-21 12:05:23 - Iterations: 43
+26-Jul-21 12:05:23 - Sampling: 0.001, Time: 18.330514669418335
+26-Jul-21 12:06:23 - Iterations: 2
+26-Jul-21 12:07:12 - Iterations: 30
+26-Jul-21 12:07:12 - Sampling: 0.01, Time: 52.851863384246826
+26-Jul-21 12:09:11 - Iterations: 5
+26-Jul-21 12:13:31 - Iterations: 26
+26-Jul-21 12:13:31 - Sampling: 0.1, Time: 309.5554270744324
+26-Jul-21 12:13:31 - This experiment implements TrustRank variant with numbers of movies
+26-Jul-21 12:14:28 - Iterations: 1
+26-Jul-21 12:14:28 - Iterations: 1
+26-Jul-21 12:14:28 - Sampling: 1e-05, Time: 0.4851338863372803
+26-Jul-21 12:15:25 - Iterations: 1
+26-Jul-21 12:15:39 - Iterations: 59
+26-Jul-21 12:15:39 - Sampling: 0.0001, Time: 15.163442611694336
+26-Jul-21 12:16:35 - Iterations: 1
+26-Jul-21 12:16:52 - Iterations: 43
+26-Jul-21 12:16:52 - Sampling: 0.001, Time: 18.261229753494263
+26-Jul-21 12:17:51 - Iterations: 2
+26-Jul-21 12:18:40 - Iterations: 30
+26-Jul-21 12:18:40 - Sampling: 0.01, Time: 51.93875002861023
+26-Jul-21 12:20:37 - Iterations: 5
+26-Jul-21 12:24:52 - Iterations: 26
+26-Jul-21 12:24:52 - Sampling: 0.1, Time: 303.8790760040283
